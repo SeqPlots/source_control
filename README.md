@@ -1,5 +1,3 @@
-# Source control
-
 ## Devel branch
 
 ##### Stop any previous rebase 
